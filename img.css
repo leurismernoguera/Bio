@@ -1,0 +1,36 @@
+*{
+    background-color: rgb(135, 197, 222);
+    color: black;
+    text-align:center;
+}
+
+#imgperfil{
+    display:inline-flexbox;
+    padding: 50px;
+    margin: 50px;
+    width: 800px;
+}
+
+.titulos{
+    font-size: 200%;
+    font-style:oblique;
+    height: 20px;
+    margin: 20px;
+    display: block;
+}
+
+h2{
+    font-size: 300%;
+}
+
+#biografia{
+    width: 100%;  
+}
+
+#tit{
+    font-size: 300%;
+    font-style:oblique;
+    height: 1px;
+    margin: 1px;
+    display: block;
+}
